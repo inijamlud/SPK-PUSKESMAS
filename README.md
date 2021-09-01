@@ -1,4 +1,13 @@
-# CodeIgniter 4 Framework
+
+# SPK Puskesmas Sehat
+-- Dashboard 
+![image](https://user-images.githubusercontent.com/55432046/131717935-fd7ecc02-b917-4d18-b065-aae6deefdddb.png)
+
+-- Data Kriteria
+![image](https://user-images.githubusercontent.com/55432046/131717960-36f434cc-2e7d-416a-b51a-aa481908ca38.png)
+
+-- SPK
+![image](https://user-images.githubusercontent.com/55432046/131717985-2a4a2f50-121e-4ef7-bb00-76d7857fe62b.png)
 
 ## What is CodeIgniter?
 
